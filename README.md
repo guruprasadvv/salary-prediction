@@ -10,7 +10,7 @@ The Random Forest Regressor is applied to build a robust predictive model that h
 
   -Model training using Random Forest Regressor
 
-  -Model evaluation using metrics like R² score, MAE, and RMSE
+  -Model evaluation using metrics like MAE, and RMSE
 
 Salary prediction for new input data
 ⚙️ Tech Stack
