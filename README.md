@@ -1,4 +1,5 @@
 # salary-prediction
+
 💼 Salary Prediction Using Random Forest
 This project uses machine learning techniques to predict employee salaries based on various features such as education, experience, job title, and location.
 The Random Forest Regressor is applied to build a robust predictive model that handles non-linear relationships and minimizes overfitting.
